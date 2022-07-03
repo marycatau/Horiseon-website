@@ -11,13 +11,7 @@
     * make the CSS coding become more efficient and organised. 
     * make the codes become more semantic.
 
-    
-
-    
-
-
 * Screenshot of the deployed application
-
 
   ![ScreenShot of the deployed application](https://github.com/marycatau/Horiseon-website/blob/main/assets/images/Screenshot%20of%20the%20deployed%20application.jpeg?raw=true)
 
