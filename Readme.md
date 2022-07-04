@@ -24,4 +24,4 @@
 
 *   link to deployed application
 
-    https://marycatau.github.io/Horiseon-website/#social-media-marketing
+    https://marycatau.github.io/Horiseon-website/
