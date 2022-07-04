@@ -11,6 +11,11 @@
     * make the CSS coding become more efficient and organised. 
     * make the codes become more semantic.
 
+    The code was then checked at the following website for the web accessiblity and the markup
+    * https://wave.webaim.org/
+    * https://validator.w3.org/
+
+
 * Screenshot of the deployed application
 
   ![ScreenShot of the deployed application](https://github.com/marycatau/Horiseon-website/blob/main/assets/images/Screenshot%20of%20the%20deployed%20application.jpeg?raw=true)
